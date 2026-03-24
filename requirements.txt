@@ -3,4 +3,4 @@ pandas
 numpy
 matplotlib
 scipy
-altair<6
+altair>=5.3.0
